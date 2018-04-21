@@ -1,0 +1,4 @@
+PropiPagoS.MainActivity, PropiPagoS;md5a3ea56dfe79d7a587b94bcf8d66a8ded.MainActivity
+PropiPagoS.MainActivity, PropiPagoS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a3ea56dfe79d7a587b94bcf8d66a8ded.MainActivity
+PropiPagoS.MainActivity;md5a3ea56dfe79d7a587b94bcf8d66a8ded.MainActivity
+propipagos.MainActivity;md5a3ea56dfe79d7a587b94bcf8d66a8ded.MainActivity
